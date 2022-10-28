@@ -9,6 +9,11 @@ h1:nth-of-type(1) {
   width: 300px;
   height: 100px   ;
 }
+.m2 {
+  background-color: #2a044b;
+  width: 300px;
+  height: 100px  ;
+}
 .hhh {
   font-size: 20px;
   color: whitesmoke;
