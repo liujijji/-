@@ -9,3 +9,10 @@ h1:nth-of-type(1) {
   color: whitesmoke;
   background-color: orange;
 }
+.hhh1 {
+  font-size: 40px;
+  color: whitesmoke;
+  background-color: #0a07b6;
+  width: 400px;
+  height: 200px ;
+}
